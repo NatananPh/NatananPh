@@ -19,3 +19,4 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+[![Latest blog post workflow](https://github.com/NatananPh/NatananPh/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/NatananPh/NatananPh/actions/workflows/blog-post-workflow.yml)
