@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natanan Phumphuang</h1>
-<h3 align="center">A computer engineering student from Chulalongkorn University</h3>
+<h3 align="center">You can all me Nut. <br> <br>
+<h3 align="center">A student studying computer engineering at Chulalongkorn University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
