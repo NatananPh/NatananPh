@@ -6,7 +6,7 @@
 <a href="https://fb.com/nongnatabc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nut natanan" height="30" width="40" /></a>
 <a href="https://instagram.com/nnutphum_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nnutphum_" height="30" width="40" /></a>
 <a href="https://medium.com/@nut14586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nut14586" height="30" width="40" /></a>
-<a href="natanan.phum@gmail.com"><img align="left" alt="Akkharawat Burachokviwat | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+<a href="mailto:natanan.phum@gmail.com"><img align="left" alt="Akkharawat Burachokviwat | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 </p>
 
