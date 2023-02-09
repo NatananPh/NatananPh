@@ -1,6 +1,8 @@
+<p align="center">
 <a href="https://github.com/drkostas">
     <img src="https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=13E4F7&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Natanan+Phumphuang;A+computer+engineering+student" alt="Typing SVG" />
 </a>
+</p>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
